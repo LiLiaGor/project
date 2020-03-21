@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+	<meta charset="UTF-8">
+	<link rel="shortcut icon" href="favicon.ico">
+	<link rel="stylesheet" type="text/css" href="Main.css">
+	<title>4toShot</title>
+	<style>
+	.gradient-text {
+  font-family: 'comic sans ms';
+  font-size: 30px;
+  background: linear-gradient(45deg, #4B0082 33%, #8B008B 66%, #FF00FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #D8BFD8;
+  display: table;
+  margin: 20px auto;
+}
+   .leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 10px 10px 10px 0; /* Отступы вокруг картинки */
+   }
+   .rightimg  {
+    float: right; /* Выравнивание по правому краю  */ 
+    margin: 10px 0 10px 10px; /* Отступы вокруг картинки */
+   }
+   .transparent-text {
+  font-family: 'lucida sans unicode', sans-serif;
+  font-size: 50px;
+  text-transform: uppercase;
+  background: #2E2F45;
+  display: table;
+  margin: 20px auto;
+  color: white;
+  border-radius: 5px;
+  mix-blend-mode: multiply;
+  padding: 5px 500px;
+}
+  </style>
+	
+</head>
+<body background="Фоны/Фон8.jpg" >
+	<header >
+		<center></center><h1 class="transparent-text"><big>photoshot</big><img src="Логотипчик.png" width="95px"></h1></center>
+		<h3><center><i>«Фотография – это единственный язык, который может быть понятен в любой точке мира»,</i><b> - Бруно Барбе.</b></center></h3>
+	</header>
+	<main>
+		<aside>
+			<br><img src="Рисунки/(1).jpg" height="500px" class="leftimg">
+		    <br><center><p><p1 class="gradient-text"><big>Фотография</big></p1> – это язык, говорящий на уровне эмоций. Причем, язык этот достаточно сильный. Порой он вызывает такое волнение у зрителя, такую бурю чувств, что человек в одних случаях начинает плакать, в других -  громко и искренне, от души,  смеяться… Языком фотографии можно рассказать историю не только одного конкретно взятого человека, но и целой семьи, целого рода, а порой даже и всего человечества.  Фотография показывает нам мир таким, какой он был в ту секунду, когда был сделан снимок. И этот запечатленный мир остается с нами навсегда.</p></center>
+			<img src="Рисунки/(2).jpg" height="500px" class="rightimg" >
+			<br> <center> <p><big><u>Значение фотографий: </u></big></p></center>
+			<br> <p>
+				
+					<br>1.Фотография говорит нам о самом важном для нас
+					<br>2.Фотография – частичка наследия человека
+					<br>3.Фотографии помогают нам в общении
+					<br>4.В каждом из нас фотография открывает художника
+					<br>5.Фотография изменяет нас
+				
+             </p>
+			<br><img src="Рисунки/(3).jpg" height="500px" class="leftimg">
+			<br>  <p><big><u>Статьи в моём блоге: </u></big></p>
+			<br> <p>
+				<ul type="square">
+					<li><p><a HREF="file:///D:/Шаг/Для%20фото/Insta.html">Фотографы, на которых стоит подписаться в Instagram</a></p></li>
+					<li><p><a HREF="file:///D:/Шаг/Для%20фото/Photos.html">Самые известные фотографии</a>></p></li>
+					
+				
+			</ul>
+		</p>
+
+				
+					
+
+			
+		</aside>
+		<section>
+			
+		</section>
+	</main>
+    <FOOTER>
+    	<img src="Соц.сети.png" class="rightimg" width="600px">
+    	<br>
+		<br> <p class="rightimg"> <i> Горбачёва Лиля <a HREF="https://www.instagram.com/liliagorbachova/?hl=ru"> (@lilagorbachova)</a></i></p>
+    </FOOTER>
+   
+</body>
+</html>
